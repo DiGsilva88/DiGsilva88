@@ -23,7 +23,7 @@ I design things. Then I build them. For me, these have never been separate disci
 My path has been deliberately wide: event brand identity at ANM Eventos, cross-border financial data at IBM, industrial design at IPCA, and now full-stack development at Cesae Digital. That breadth isn't a lack of focus — it's the asset. I speak both design and data fluently, and I build the bridge between them.
 
 - 🎓 Finishing a **BSc in Industrial Design** at IPCA + **Software Developer Course** at Cesae Digital (2026)
-- 💼 Former **Designer & PM at ANM Eventos** — end-to-end projects for Checkmarx, Casais and others
+- 💼 Former **Designer & Creative manager at ANM Eventos** — end-to-end projects for Checkmarx, Grupo Casais and others
 - 🏢 Former **Accounts Payable Specialist at IBM** — data, reporting & cross-border ops for Unilever Brazil
 - 📊 Currently deepening skills in **Python, Power BI** and data visualisation
 - 🐱 Co-founder of **Festival O Vadio** — a non-profit event for street cats
@@ -41,6 +41,9 @@ My path has been deliberately wide: event brand identity at ANM Eventos, cross-b
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+[![Bootstrap](https://shields.io)](https://getbootstrap.com)
+[![Materialize](https://shields.io)](https://materializecss.com)
+
 
 ### Data & Analytics
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
