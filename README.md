@@ -5,7 +5,7 @@
 ### Junior Full-Stack Developer · Multidisciplinary Designer
 
 *Designer who builds. Developer who designs.*
-**Software Developer** graduate · currently interning at **[EMPRESA]** · learning **Python** & **Java**
+**Software Developer** graduate · currently interning at **INFORAP** · learning **Python** & **Java**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-000000?style=flat-square&logo=vercel&logoColor=white)](https://v0-resume-from-html.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-diana--silva-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diana-silva-02786a14a)
