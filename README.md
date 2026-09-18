@@ -114,8 +114,8 @@ Small, focused repos from the Software Developer programme — OOP, design patte
 ```
 [INFORAP] — Software Development Intern (2026 – present)
 └── [Responsabilidade principal]
-└── [Stack: C# . NET MYSQL · Criar um MCP]
-└── [Resultado ou entrega concreta]
+└── [Stack: C# . NET MYSQL ]
+└── [Working on a MCP project]
 
 ANM Eventos — Designer & Creative Manager (2023–2025)
 └── End-to-end design & project management for Checkmarx, Grupo Casais and others
