@@ -24,7 +24,7 @@ I completed the **Software Developer** programme at Cesae Digital and I'm curren
 
 My path has been deliberately wide: event brand identity at ANM Eventos, cross-border financial data at IBM, industrial design at IPCA. That breadth isn't a lack of focus — it's the asset. I speak both design and data fluently, and I build the bridge between them.
 
-- 💼 **Interning at [EMPRESA]** — [1 linha: o que fazes lá + stack]
+- 💼 **Internship at INFORAP** — Creating a MCP server to connect to software and Views with clients data]
 - 🎓 **Software Developer**, Cesae Digital — completed 2026
 - 🎓 **BSc Industrial Design**, IPCA — [concluída / em conclusão] 2026
 - 📚 Currently studying **Python** and **Java**
