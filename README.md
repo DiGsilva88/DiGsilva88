@@ -20,7 +20,7 @@
 
 I design things. Then I build them. For me these were never separate disciplines — it's one instinct: understand a problem visually, then make it real.
 
-I completed the **Software Developer** programme at Cesae Digital and I'm currently **interning at [EMPRESA]**, working on [STACK / ÁREA DO ESTÁGIO]. Alongside it I'm taking **Python** and **Java** courses, extending a stack that already covers C#/.NET, PHP/Laravel, JavaScript/React and Kotlin.
+I completed the **Software Developer** programme at Cesae Digital and I'm currently **interning at INFORAP**, working on C# e, .NET e MYSQL. Alongside it I'm taking **Python** and **Java** courses, extending a stack that already covers C#/.NET, PHP/Laravel, JavaScript/React and Kotlin.
 
 My path has been deliberately wide: event brand identity at ANM Eventos, cross-border financial data at IBM, industrial design at IPCA. That breadth isn't a lack of focus — it's the asset. I speak both design and data fluently, and I build the bridge between them.
 
@@ -101,7 +101,7 @@ Small, focused repos from the Software Developer programme — OOP, design patte
 
 | Area | Focus | Status |
 |------|-------|--------|
-| 💼 Internship | [STACK DO ESTÁGIO] | Active |
+| 💼 Internship | C# . NET MYSQL | Active |
 | ☕ Java | OOP, collections, Spring basics | In progress |
 | 🐍 Python | Syntax, data structures, pandas | In progress |
 | ⚛️ React + TypeScript | Hooks, state, typed components | Next up |
@@ -114,7 +114,7 @@ Small, focused repos from the Software Developer programme — OOP, design patte
 ```
 [INFORAP] — Software Development Intern (2026 – present)
 └── [Responsabilidade principal]
-└── [Stack: linguagem · framework · base de dados · ferramentas]
+└── [Stack: C# . NET MYSQL · Criar um MCP]
 └── [Resultado ou entrega concreta]
 
 ANM Eventos — Designer & Creative Manager (2023–2025)
